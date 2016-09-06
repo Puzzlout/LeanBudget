@@ -1,0 +1,7 @@
+- add a transaction 
+- add an account 
+- add a budget 
+- add a user
+- login
+- view transactions 
+- create report 
