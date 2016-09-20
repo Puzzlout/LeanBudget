@@ -1,2 +1,0 @@
-- a manual transaction 
-- a recurrent transaction 
