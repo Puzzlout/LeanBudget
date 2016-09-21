@@ -16,9 +16,8 @@ The form must contain:
   - DD/MM/YYYY or MM/DD/YYYY depending on the local of the user
 - A budget
   - selection is made from a auto-complete list
-  - it must allow to add automatically a new budget if no item is selected in the auto-complete list
+  - it must allow to add automatically a new budget if no item is selected in the auto-complete list.
   - it would be good to prevent insertion of duplicates
-  - 
 - A Payee 
   - selection is made from a auto-complete list
   - it must allow to add automatically a new payee if no item is selected in the auto-complete list
