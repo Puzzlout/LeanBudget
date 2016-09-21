@@ -5,7 +5,7 @@ A budget sheet contains:
 - A balance of the parent budget
 - One column per account that contains funds assigned to the parent budget
 - One line per transaction
-  - Note: a same transaction can 
+  - Note: a same transaction can affect several account (ex: Groceries)
 
 # Add a single-budget transaction 
 
